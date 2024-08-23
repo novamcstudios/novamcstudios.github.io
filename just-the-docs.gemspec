@@ -1,10 +1,10 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "just-the-docs"
-  spec.version       = "0.9.0"
-  spec.authors       = ["Patrick Marsceill", "Matthew Wang"]
-  spec.email         = ["patrick.marsceill@gmail.com", "matt@matthewwang.me"]
+  spec.name          = "NOVA Studios"
+  spec.version       = "1.21.0"
+  spec.authors       = ["SpacedIn"]
+  spec.email         = ["spacecian69420@gmail.com"]
 
   spec.summary       = %q{A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.}
   spec.homepage      = "https://github.com/just-the-docs/just-the-docs"
